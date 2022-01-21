@@ -20,4 +20,4 @@ Pillow is a fork of the Python Imaging Library (PIL). PIL is a library that offe
   - Splitting and merging bands 
 - Image Enhancemnts
 
-Results : For reference the results are stored. 
+Results : For reference the results in results folder above. 
